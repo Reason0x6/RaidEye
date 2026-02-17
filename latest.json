@@ -4,8 +4,8 @@
   "pub_date": "2026-02-17T11:56:21Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "",
-      "signature": ""
+      "url": "https://github.com/Reason0x6/RD_Desktop/releases/download/untagged-d0b88c424e4d0b3bdfe4/RaidEye_0.2.3_x64-setup.nsis.zip",
+      "signature": "https://github.com/Reason0x6/RD_Desktop/releases/download/untagged-d0b88c424e4d0b3bdfe4/RaidEye_0.2.3_x64-setup.nsis.zip.sig"
     }
   }
 }
