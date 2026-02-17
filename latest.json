@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/Reason0x6/RD_Desktop/releases/download/v0.2.2/RaidEye_0.2.2_x64-setup.nsis.zip",
-      "signature": "~)^�+-zo�"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOEFzNWlIVXVhcTE2MzZaek5aTzNKK3R0Smc1bXlqWkwyK0NnbjhMZU0xSlRlaDVNb283NndvYnVlQWRhUmRIOWI2Z0dRTFB5bzlZNG5Vd09ockVTMHE5M0ZVUUtBUHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzI2Nzc0CWZpbGU6UmFpZEV5ZV8wLjIuMl94NjQtc2V0dXAubnNpcy56aXAKWVAwODJjTjYybW41WVdIdFIxM2YyU2hxZC9sUDVHMjZYVUNKeGNwUE1vbEZHQUJyR0xIbTZnbHBKYjZOMlZQLytBdDFTcG51UndzVlBuQ2ZkM2hqQkE9PQo="
     }
   }
 }
