@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "notes": "",
-  "pub_date": "2026-02-17T12:00:32Z",
+  "pub_date": "2026-02-17T23:45:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Reason0x6/RD_Desktop/releases/download/v0.2.3/RaidEye_0.2.3_x64-setup.nsis.zip",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOEFzNWlIVXVhcTNjZEtNLzV5VHVhYkR5blg3UGdjYXpSbWQwL09WbVBZdDNkeXFPdnRLbmZIcGVzeTJDeVQ4bU10aFdZREprQ2dKaEFtazZ4MWlnTnhkZ09iNURpandZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzI5NjI2CWZpbGU6UmFpZEV5ZV8wLjIuM194NjQtc2V0dXAubnNpcy56aXAKVnNLWWxTNUwzdWZDdTd2bURvUGRMT1BTdkFPc0xtMjJGSmFQbmhZd1BQNEpiNWpmaUN2dXpCQ0hFMEhCZGRHa2h5TVoyWlhicENEampjYlZjb2hXQlE9PQo="
+      "url": "https://github.com/Reason0x6/RD_Desktop/releases/download/v0.2.4/RaidEye_0.2.4_x64-setup.nsis.zip",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOEFzNWlIVXVhcTZyVU8vcUw2aU14eWtIM2RYaVNEUFdDd2xWUDhlaWdGYjlIMlNDdmc0TC9Mck55UXpoV0N5OEVrSkNNNG4rbTd3dWhkSTFONlNaMFVsbkM4U25JM3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzcxODk2CWZpbGU6UmFpZEV5ZV8wLjIuNF94NjQtc2V0dXAubnNpcy56aXAKamRRcndCR2g5YUV5a1UvdHBqMVVjY0dSS1hsOTliQnlBZGRUd3dNd0dlY0xDYTJicy9sODNuYTNKam1HeVM4ZXBvaHErQVJXZnNoQkNuZVQ1U3NJREE9PQo="
     }
   }
 }
