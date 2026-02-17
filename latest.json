@@ -1,11 +1,11 @@
 {
   "version": "0.2.2",
   "notes": "",
-  "pub_date": "2026-02-17T11:12:59Z",
+  "pub_date": "2026-02-17T10:33:58Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Reason0x6/RD_Desktop/releases/download/v0.2.2/RaidEye_0.2.2_x64-setup.nsis.zip",
-      "signature": "https://github.com/Reason0x6/RD_Desktop/releases/download/v0.2.2/RaidEye_0.2.2_x64-setup.nsis.zip.sig"
+      "url": "https://github.com/Reason0x6/RD_Desktop/releases/download/v0.2.2/RaidEye_0.2.1_x64-setup.nsis.zip",
+      "signature": "https://github.com/Reason0x6/RD_Desktop/releases/download/v0.2.2/RaidEye_0.2.1_x64-setup.nsis.zip.sig"
     }
   }
 }
